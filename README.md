@@ -1,4 +1,4 @@
 # README.md
 
-🌐 Find Me in the Shadows
-💥 “Hack the world, one line of code at a time.” 💥
+🌐
+💥 “Hack the planet, one line of code at a time.” 💥
